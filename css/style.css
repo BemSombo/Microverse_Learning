@@ -1,0 +1,48 @@
+body{
+    padding: 150px;
+    background-color: lightgray;
+}
+#header{
+    display: flex;
+    align-items: center;
+}
+#Original{
+    margin: 0% 0% 0% 2% ;
+}
+#nav-bar{
+    margin: 0% 0% 0% 50% ; 
+}
+.nav-link{
+    margin: 0% 2% 0% 0% 
+}
+a:link {
+    text-decoration: none;
+  }
+#heading_1{
+    text-align: center;
+}
+#heading_1{
+    text-align: center;
+}
+#form{
+    display: flex;
+    justify-content: center;
+}
+#submit{
+    background: yellow;
+}
+#img_1, #img_2, #img_3 {
+    float: left;
+}
+#vid_1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bolder{
+    border: 1px solid black;
+}
+#container_1{
+    display: flex;
+}
+
